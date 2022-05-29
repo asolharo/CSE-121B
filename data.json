@@ -1,1 +1,24 @@
+{
+   "appointmets":{
+      "John":[
+         {"name":"John Doe",
+         "reason": "Renewal",
+         "date": "2022-06-03",
+         "time": "18:30"}
+      ],
 
+      "Angel":[
+         {"name":"Angel Solharo",
+            "reason": "Renewal",
+            "date": "2022-06-03",
+            "time": "17:00"}
+         ],
+
+      "Jane":[
+         {"name":"Jane Doe",
+            "reason": "Renewal",
+            "date": "2022-06-03",
+            "time": "17:30"}
+      ]
+   }
+}
